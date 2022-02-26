@@ -5,3 +5,4 @@ Simple bot with two commands: .porn (grabs a random gif) and .purge (to clean up
 
 170 gif file links to get you started. 
 
+Requires discord.py
